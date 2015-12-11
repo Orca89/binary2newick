@@ -7,4 +7,4 @@ and the writing mode (use "w" in the third argument to overwrite and "a"(in pyth
 Arguments: "inputDir" <"outputDir"> <"mode">
 
 Notice:
-The python script requires the Openpyxl module to be installed: https://openpyxl.readthedocs.org/
+The python script requires the Openpyxl module: https://openpyxl.readthedocs.org/
